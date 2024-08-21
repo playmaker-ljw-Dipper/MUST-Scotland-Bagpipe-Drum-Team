@@ -18,6 +18,8 @@ import linkedInIcon from "../images/socials/linkedin.svg";
 import mediumIcon from "../images/socials/medium.svg";
 import twitterIcon from "../images/socials/twitter.svg";
 import youTubeIcon from "../images/socials/youtube.svg";
+import redbookIcon from "../images/socials/redbook.svg";
+import bilibiliIcon from "../images/socials/bilibili.svg";
 
 /**
  * 💡 Learning resources
@@ -63,6 +65,16 @@ const Footer = (props) => {
         {email && (
           <a href={`mailto:${email}`}>
             <img src={envelopeIcon} alt="email" className="socialIcon" />
+          </a>
+        )}
+        {bilibili && (
+          <a href={`mailto:${bilibili}`}>
+            <img src={bilibiliIcon} alt="bilibili" className="socialIcon" />
+          </a>
+        )}
+        {redbook && (
+          <a href={`${redbook}`}>
+            <img src={redbookIcon} alt="redbook" className="socialIcon" />
           </a>
         )}
         {devDotTo && (

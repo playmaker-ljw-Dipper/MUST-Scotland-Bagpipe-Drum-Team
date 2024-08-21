@@ -33,6 +33,8 @@ const siteProps = {
   medium: "",
   twitter: "",
   youTube: "",
+  redbook: "https://www.xiaohongshu.com/user/profile/66627723000000000b03095e",
+  bilibili:"https://space.bilibili.com/3493089914128833",
 };
 
 const primaryColor = "#4E567E";
