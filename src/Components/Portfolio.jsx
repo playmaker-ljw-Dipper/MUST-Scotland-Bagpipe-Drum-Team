@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/sc2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Group photo";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "video1",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "在澳科大毕业怎能这么大气？他们出动亚洲唯一的校队来送别！",
+    url: " https://b23.tv/rj1qF9f",
   },
   {
-    title: "Web Development for Beginners",
+    title: "video2",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "苏格兰风笛鼓队开场的澳科大开学典礼，什么叫仪式感",
+    url: "https://b23.tv/1UIXd6R",
   },
   {
-    title: "My Resume Site",
+    title: "Video3",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "花式杂技鼓、风笛吹中国歌？还能这样玩！澳科大苏格兰风笛鼓乐队专场",
+    url: " https://b23.tv/nrjXWr7",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "video4",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "毕业礼前还有风笛暖场？澳门科技大学的特色！",
+    url: "https://b23.tv/1wGvqIf",
   },
 ];
 
