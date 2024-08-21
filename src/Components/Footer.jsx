@@ -40,6 +40,8 @@ const Footer = (props) => {
     primaryColor,
     twitter,
     youTube,
+    bilibili,
+    redbook,
   } = props;
 
   return (
