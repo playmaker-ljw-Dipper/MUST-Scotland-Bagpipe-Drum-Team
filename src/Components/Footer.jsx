@@ -149,7 +149,8 @@ Footer.propTypes = {
   primaryColor: PropTypes.string,
   twitter: PropTypes.string,
   youTube: PropTypes.string,
-
+  bilibili: PropTypes.string,
+  redbook: PropTypes.string,
 };
 
 export default Footer;
