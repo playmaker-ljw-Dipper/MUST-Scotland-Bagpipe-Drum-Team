@@ -24,8 +24,8 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "MUST-Scotland-Bagpipe-Drum-Team",
-  title: "The only Scotland-Bagpipe&Drum Team in Asia grouped in university",
+  name: "MUST-Scottish-Bagpipes-Drum-Team",
+  title: "澳門科技大學蘇格蘭風笛鼓樂隊",
   email: "",
   gitHub: "",
   instagram: "",

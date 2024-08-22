@@ -70,7 +70,7 @@ const Footer = (props) => {
           </a>
         )}
         {bilibili && (
-          <a href={`mailto:${bilibili}`}>
+          <a href={`${bilibili}`}>
             <img src={bilibiliIcon} alt="bilibili" className="socialIcon" />
           </a>
         )}
